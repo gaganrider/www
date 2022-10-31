@@ -90,10 +90,12 @@ z-index: 25;
     font:600 5vmax var(--font2);
 }
 .contact,.page1bottombtn,.page2bottombtn{
-    font:500 1.1vmax var(--font1);
+    font:300 1vmax var(--font1);
     padding: 0.5vmax 3vmax;
     border-radius: 50px;
     margin: 2vmax;
+    color: rgb(219, 195, 195);;
+    background-color: #000;
 }
 .slidediv{
     /* position: absolute; */
